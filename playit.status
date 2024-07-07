@@ -1,164 +1,44 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720396457482 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720396619725 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396460533 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720396622786 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396463610 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720396625887 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396466649 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720396628955 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396469686 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720396632030 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396472742 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720396635076 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396475803 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720396638143 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396478857 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720396641204 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396481928 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396485011 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396488076 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396491124 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396494203 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396497291 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396500367 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396503471 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396506554 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396509601 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396512676 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396515777 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396518837 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396521887 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396524922 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396527977 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396531054 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396534128 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396537181 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396540242 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396543295 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396546348 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396549394 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396552450 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-band-forms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720396555502 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720396644253 tunnel running, 1 tunnels registered
 
 
 TUNNELS
